@@ -1,9 +1,9 @@
 ## <img src="/Images/Icons/open_government.png" width="200" height="200" />
-## 9. Open Science Policies
+## 9. Πολιτικές για την Ανοικτή Επιστήμη
 
-### What is it?
+### Τι είναι;
 
-We could define Open Science policies as those strategies and actions aimed at promoting Open Science principles and at acknowledging Open Science practices. Those policies are usually established by research performing institutions, research funders, governments or publishers. The initial policies were aimed at requiring an open dissemination of the research results based on the idea that results achieved from publicly funded research should be available to the public without any restriction. However, now the scope of the policies has grown and we may find national policies fostering Open Science practices at any point of the research level. Moreover, we might find specific provisions in new and existing laws, regulations or directives.
+Οι πολιτικές για την Ανοικτή Επιστήμη θα μπορούσαν να οριστούν ως οι στρατηγικές και οι δράσεις που έχουν στόχο την προώθηση των αρχών της Ανοικτής Επιστήμης καθώς και την αναγνώριση των πρακτικών της. Αυτές οι πολιτικές συνήθως καθιερώνονται από ερευνητικούς φορείς, χρηματοδότες έρευνας, κυβερνήσεις ή εκδότες. Αρχικά οι πολιτικές στόχευαν στην ανοικτή διάχυση των αποτελεσμάτων της έρευνας και βασιζόταν στην ιδέα ότι η δημόσια χρηματοδοτούμενη έρευνα πρέπει να είναι διαθέσιμη στο κοινό χωρίς κανένα περιορισμό. Ωστόσο, σήμερα το πεδίο των πολιτικών έχει διευρυνθεί και ενδέχεται να συναντήσουμε εθνικές πολιτικές που υιοθετούν τις πρακτικές της ανοικτής επιστήμης σε ποικίλα σημεία του επιπέδου της έρευνας. Επιπλέον, ενδέχεται να βρούμε ειδικές διατάξεις σε νέους και υφιστάμενους νόμους, κανονισμούς ή οδηγίες.
 
 ## <img src="/Images/02 Open Science Basics/02_open_policies.png" />
 
